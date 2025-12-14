@@ -1,5 +1,7 @@
 # Hearchco agent repository built using Go
 
+Open source is hard, maintaining a metasearch engine while corruption kills your country even harder.
+
 ## Installation
 
 ### Docker
